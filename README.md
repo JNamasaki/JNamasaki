@@ -1,12 +1,16 @@
+<!---
 - 👋 Oie, Eu sou a Jéssica Rodrigues
 - 🌱 Estou aprendendo Node.js e Typescript no momento
-
+--->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Fullstack+Developer&center=true&size=28">
+  </a>
+</h1>
 ---
 
 > 
->  Estou me especializando em NodeJS no meu [Github](https://github.com/JNamasaki/) você conferir meus projetos e estudos recentes.
-> 
->  Atualmente estudando e trabalhando em BPMS (Business Process Management System) com base em JavaScript e Java.
+>  Estou me especializando em NodeJS e Java no meu [Github](https://github.com/JNamasaki/) você conferir meus projetos e estudos recentes.
 > 
 > :envelope: email: <r.jmrsilva.j@gmail.com>
 > 
