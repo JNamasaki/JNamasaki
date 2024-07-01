@@ -16,7 +16,7 @@
 > 
 > :computer: Linkedin: [Jéssica Rodrigues](https://www.linkedin.com/in/jm-rod/)
 > 
-> :house: Localização - Novo Gama, Goiás
+
 
 ----
 
