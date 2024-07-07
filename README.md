@@ -21,7 +21,7 @@
 ----
 <img src="https://myreadme.vercel.app/api/embed/JNamasaki?panels=userstatistics,toplanguages" alt="reimaginedreadme" /> 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JNamasaki?theme=dark&extension=activity)](https://leetcard.jacoblin.cool/JNamasaki?theme=dark&extension=activity) 
+![](https://leetcard.jacoblin.cool/JNamasaki?font=Dancing_Script)
 
 
 <!---
