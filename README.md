@@ -10,7 +10,7 @@
 ---
 
 > 
->  Estou me especializando em NodeJS e Java no meu [Github](https://github.com/JNamasaki/) você conferir meus projetos e estudos recentes.
+>  Estou estudando Java.
 > 
 > :envelope: email: <r.jmrsilva.j@gmail.com>
 > 
@@ -19,16 +19,14 @@
 
 
 ----
+<img src="https://myreadme.vercel.app/api/embed/JNamasaki?panels=userstatistics,toplanguages" alt="reimaginedreadme" /> 
 
-
-
-![Snake animation](https://github.com/JNamasaki/JNamasaki/blob/output/github-contribution-grid-snake.svg)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=JNamasaki&theme=radical&hide_border=true)
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JNamasaki?theme=dark&extension=activity)](https://leetcard.jacoblin.cool/JNamasaki?theme=dark&extension=activity) 
 
 
 <!---
+![](https://github-readme-streak-stats.herokuapp.com/?user=JNamasaki&theme=radical&hide_border=true)
+
 JNamasaki/JNamasaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
